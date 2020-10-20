@@ -1,0 +1,38 @@
+.comment {
+    border: 1px solid red;
+}
+
+.avatar img{
+    width: 60px;
+    height: 60px;
+    display: block;
+    cursor: pointer;
+}
+
+span.role-user-comment {
+    background: #e47520;
+    color: #fff;
+}
+
+.comment-input input {
+    border-radius: 30px;
+    width: 100%;
+    outline: none;
+    padding-left: 20px;
+    margin-top: 10px;
+    border: 2px solid #e2e0e0;
+    background-color: #f0f0f0;
+    font-size: 20px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.cmt_username_and_content {
+    display: inline-block;
+    background-color: #ebedf0;
+    border-radius: 25px;
+}
+
+.comment-option {
+    display: inline-block;
+}
